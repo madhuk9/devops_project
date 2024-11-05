@@ -1,0 +1,24 @@
+#!/bin/bash
+ec2-user
+sudo su -
+useradd add users 
+groupadd 
+files 
+directories 
+filemanagement 
+useradd 
+groupadd 
+groupadd 
+who
+whoami
+who am i
+pwd 
+cat 
+touch 
+nano 
+vim
+echo
+id
+cd
+/
+
